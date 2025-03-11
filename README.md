@@ -7,7 +7,7 @@ Olá, me chamo Maycon dos Santos Silva, tenho 22 anos e sou estudante Universit�
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayconsnts&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconsnts&theme=dark)](https://github.com/anuraghazra/github-readme-stats)v
 
-## 👾 Linguagens mais usadas (até agora...)
+## 👾 Linguagens dominadas (até agora...)
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
