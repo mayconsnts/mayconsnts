@@ -1,6 +1,6 @@
 ## 🤖 Um pouco sobre mim
 
-Olá, me chamo Maycon dos Santos Silva, tenho 22 anos e sou estudante Universitário e Desenvolvedor Beckend na linguagem Python. Estou sempre em busca de novas experiências que colaborem com meu desenvolvimento profissional e pessoal. No momento sigo elevando meu conhecimentos sobre desenvolvimento de softwares e linguagens de programação.
+Olá, me chamo Maycon dos Santos Silva, tenho 22 anos e sou estudante Universitário e Desenvolvedor Beckend. Estou sempre em busca de novas experiências que colaborem com meu desenvolvimento profissional e pessoal. No momento sigo elevando meu conhecimentos sobre desenvolvimento de softwares e linguagens de programação.
 
 ## 🖥️ Alguns dados interessantes
 
