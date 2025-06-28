@@ -1,11 +1,11 @@
 ## 🤖 Um pouco sobre mim
 
-Olá, me chamo Maycon dos Santos Silva, tenho 22 anos e sou estudante Universitário e Desenvolvedor Beckend. Estou sempre em busca de novas experiências que colaborem com meu desenvolvimento profissional e pessoal. No momento sigo elevando meu conhecimentos sobre desenvolvimento de softwares e linguagens de programação.
+Olá, me chamo Maycon dos Santos Silva, tenho 22 anos e sou estudante universitário e desenvolvedor beckend. Estou sempre em busca de novas experiências que colaborem com meu desenvolvimento profissional e pessoal. No momento sigo elevando meu conhecimentos sobre desenvolvimento de softwares e linguagens de programação.
 
 ## 🖥️ Alguns dados interessantes
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mayconsnts&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconsnts&theme=radical)](https://github.com/anuraghazra/github-readme-stats)v
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconsnts&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👾 Linguagens dominadas (até agora...)
 
